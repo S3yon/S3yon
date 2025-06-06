@@ -57,7 +57,7 @@ Software Development and Network Engineering student at Sheridan College with a 
 <a href="https://heroku.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <!-- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>   -->
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="50" /></a>  
+<!-- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="50" /></a>   -->
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="50" /></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
