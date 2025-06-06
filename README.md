@@ -66,7 +66,7 @@ Software Development and Network Engineering student at Sheridan College with a 
 </td></tr></table>
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -83,7 +83,7 @@ Software Development and Network Engineering student at Sheridan College with a 
 </div>
 
 ---
-
+-->
 ## 🏆 Achievements & Highlights
 
 ### 🎯 Notable Projects
