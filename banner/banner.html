@@ -1,0 +1,59 @@
+<!doctype html>
+<!-- Source for ../banner.png. Mirrors the intro on seyons.com: chalk on charcoal, Anton name,
+     the four facts. Regenerate with ./render.sh after editing. -->
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Instrument+Sans:wght@400;500&display=block" rel="stylesheet">
+<style>
+  :root {
+    --charcoal: #212225;
+    --chalk: #C8C7C3;
+    --muted: #8F8E8A;
+    --faint: #6E6D6A;
+    --line: #3A3B3F;
+    --accent: #B4502A;
+  }
+  html, body { margin: 0; background: transparent; }
+  .card {
+    width: 960px; height: 360px; box-sizing: border-box;
+    border-radius: 14px; overflow: hidden; position: relative;
+    background:
+      radial-gradient(480px 330px at 22% 46%, rgba(180, 80, 42, 0.13), transparent 70%),
+      var(--charcoal);
+    padding: 52px 54px 0;
+    font-family: 'Instrument Sans', sans-serif;
+  }
+  .name {
+    font-family: 'Anton', sans-serif; color: var(--chalk);
+    font-size: 132px; line-height: 0.9; letter-spacing: 0.005em; margin: 0;
+  }
+  .facts { display: flex; margin-top: 40px; }
+  .fact { width: 186px; padding-left: 16px; border-left: 1px solid var(--line); }
+  .fact:first-child { padding-left: 0; border-left: 0; width: 170px; }
+  .label {
+    font-family: 'Anton', sans-serif; font-size: 13px; letter-spacing: 0.16em;
+    color: var(--faint); text-transform: uppercase;
+  }
+  .label.now { color: var(--accent); }
+  .value { font-size: 22px; color: var(--chalk); margin-top: 8px; font-weight: 500; }
+  .sub { font-size: 16px; color: var(--muted); margin-top: 4px; }
+  .site {
+    position: absolute; right: 54px; bottom: 30px;
+    font-family: 'Anton', sans-serif; font-size: 13px; letter-spacing: 0.2em; color: var(--faint);
+  }
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1 class="name">SEYON SRI</h1>
+    <div class="facts">
+      <div class="fact"><div class="label now">Now</div><div class="value">SWE Intern</div><div class="sub">Scotiabank</div></div>
+      <div class="fact"><div class="label">Studying</div><div class="value">Software Dev</div><div class="sub">Sheridan College</div></div>
+      <div class="fact"><div class="label">Hackathons</div><div class="value">6 built</div><div class="sub">2 awards</div></div>
+      <div class="fact"><div class="label">Based</div><div class="value">Oakville</div><div class="sub">Ontario</div></div>
+    </div>
+    <div class="site">SEYONS.COM</div>
+  </div>
+</body>
+</html>
