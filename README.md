@@ -8,12 +8,12 @@ I build AI and full-stack apps, mostly at hackathons.
 
 | | What it is | Where | Stack |
 |---|---|---|---|
-| [**HemoStat**](https://github.com/S3yon/HemoStat) | Four agents that watch Docker containers, find the root cause and fix them | DevOps for GenAI 2025<br>**Most Impactful Award** | Python, LangChain, Docker, Redis, Prometheus, Grafana |
+| [**HemoStat**](https://github.com/CommunityHackathons/HemoStat) | Four agents that watch Docker containers, find the root cause and fix them | DevOps for GenAI 2025<br>**Most Impactful Award** | Python, LangChain, Docker, Redis, Prometheus, Grafana |
 | **ThyroTrack** | Thyroid health tracker with an XGBoost model | AI in Healthcare 2025<br>**2nd place** | Python, XGBoost |
 | [**StanCut**](https://github.com/S3yon/StanCut) | Native iOS app, my first Swift project | Stan x HackAI Toronto 2026<br>**Top 6** | Swift, AWS Lambda, S3 |
 | [**Outfitted**](https://github.com/S3yon/Outfitted) | Upload your clothes, get a digital closet and outfit ideas | Hack Canada 2026 | TypeScript, Gemini, Cloudinary, Auth0 |
-| [**PriceValve**](https://github.com/S3yon/PriceValve) | Steam pricing dashboard for indie game developers | SpurHacks 2025 | Next.js, TypeScript, Express, Steam API |
-| [**404cast**](https://github.com/S3yon/404cast) | Guess-the-neighbourhood safety game on Toronto Police crime data | Hack404 2025 | React, Node, Express, MongoDB, Google Maps |
+| [**PriceValve**](https://github.com/rick-mingyu-liu/PriceValve) | Steam pricing dashboard for indie game developers | SpurHacks 2025 | Next.js, TypeScript, Express, Steam API |
+| [**404cast**](https://github.com/vega0604/404cast) | Guess-the-neighbourhood safety game on Toronto Police crime data | Hack404 2025 | React, Node, Express, MongoDB, Google Maps |
 | [**skill-kit**](https://github.com/S3yon/skill-kit) | Three agent skills in one plugin: variant-lab, writing-check, quiz | Side project | Python |
 | [**seyons.com**](https://github.com/S3yon/S3yon.com) | My personal site | Side project | Next.js, TypeScript, Tailwind |
 
